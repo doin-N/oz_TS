@@ -14,7 +14,7 @@
 
     "outDir": "dist",
     "noUncheckedIndexedAccess": true
-    // "lib": ["ES2022", "DOM"]
+    //"lib": ["ES2022", "es2015", "DOM"]
   },
   "include": ["src/**/*"]
 }
